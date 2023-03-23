@@ -2,3 +2,4 @@ Personaje
 
 Vida= 300
 Maná= 50
+Velocidad = 200
