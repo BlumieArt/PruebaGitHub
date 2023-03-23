@@ -4,4 +4,6 @@ Vida= 300
 Maná= 50
 Velocidad = 200
 
-Habilidad: Fireball
+Habilidad uno: Fireball
+Habilidad dos: Pisotón
+
